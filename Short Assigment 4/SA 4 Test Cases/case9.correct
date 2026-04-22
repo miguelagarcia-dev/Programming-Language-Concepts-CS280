@@ -1,0 +1,32 @@
+Line 1: Invalid exponent for a numeric literal: "1025E+-"
+Line 3: Invalid exponent for a numeric literal: "2.78e+3-"
+Line 3: Invalid exponent for a numeric literal: "34.56Ee"
+Total Number of Lines: 5
+Number of Integer Literals: 6
+Number of Floating-Point Literals: 4
+
+List of All Numeric Literals and their Number of Occurrences:
+"0.45e-3": 1
+"100": 1
+"1234e-2": 1
+"125": 1
+"125e+3": 1
+"2": 4
+"2.375": 1
+"3456": 1
+"4321": 1
+"45": 4
+
+List of Integer Literals and their Values:
+"100": 100
+"125": 125
+"2": 2
+"3456": 3456
+"4321": 4321
+"45": 45
+
+List of Floating-Point Literals and their Values:
+"0.45e-3": 0.00045
+"1234e-2": 12.34
+"125e+3": 125000
+"2.375": 2.375

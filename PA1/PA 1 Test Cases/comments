@@ -1,0 +1,12 @@
+program prog1;
+	{ Testing  multi-line comments }  
+	(*var
+	integer  x1, y1;	
+	string  str = "Welcome";*) 
+	real z = 0.0 
+	
+begin
+	x1 := 50 + y1;
+	z := z + x1;
+END.
+            

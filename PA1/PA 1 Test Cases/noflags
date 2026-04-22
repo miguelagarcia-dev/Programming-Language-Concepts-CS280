@@ -1,0 +1,14 @@
+program prog1;
+	{ Testing all flags } 
+	var
+	integer x1, y_1, z-, w234;	
+	string str := 'Welcome';
+	real z ;
+	boolean flag := true, bing := false; 
+	
+begin
+	r := 50;
+	if x = 1 then z:=0.0 else z:=-1;
+	writeln(str, ' to cs 280 course');
+END.
+

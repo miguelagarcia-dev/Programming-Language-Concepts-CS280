@@ -1,0 +1,11 @@
+program prog1;
+	{ Testing  multi-line invalid nesting of comments }  
+	(*var
+	integer  (*x1, y1;	*)
+	string  str = "Welcome";*) 
+	real z = 0.0 
+	
+begin
+	r := 50
+END.
+            

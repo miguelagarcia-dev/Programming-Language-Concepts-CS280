@@ -1,0 +1,122 @@
+ErrorVal=ERROR
+doubleVal1=9.50
+doubleVal2=3.25
+intVal1=17
+intVal2=4
+StrVal1="CS280    "
+StrVal2="Spring 2026     "
+bVal1=true
+bVal2=false
+cVal1=Z
+cVal2=i
+ERROR + 9.50 is ERROR
+ERROR + 3.25 is ERROR
+ERROR + 17 is ERROR
+ERROR + 4 is ERROR
+ERROR + 'CS280    ' is ERROR
+ERROR + 'Spring 2026     ' is ERROR
+ERROR + true is ERROR
+ERROR + false is ERROR
+ERROR + 'Z' is ERROR
+ERROR + 'i' is ERROR
+9.50 + ERROR is ERROR
+9.50 + 3.25 is 12.75
+9.50 + 17 is 26.50
+9.50 + 4 is 13.50
+9.50 + 'CS280    ' is ERROR
+9.50 + 'Spring 2026     ' is ERROR
+9.50 + true is ERROR
+9.50 + false is ERROR
+9.50 + 'Z' is ERROR
+9.50 + 'i' is ERROR
+3.25 + ERROR is ERROR
+3.25 + 9.50 is 12.75
+3.25 + 17 is 20.25
+3.25 + 4 is 7.25
+3.25 + 'CS280    ' is ERROR
+3.25 + 'Spring 2026     ' is ERROR
+3.25 + true is ERROR
+3.25 + false is ERROR
+3.25 + 'Z' is ERROR
+3.25 + 'i' is ERROR
+17 + ERROR is ERROR
+17 + 9.50 is 26.50
+17 + 3.25 is 20.25
+17 + 4 is 21
+17 + 'CS280    ' is ERROR
+17 + 'Spring 2026     ' is ERROR
+17 + true is ERROR
+17 + false is ERROR
+17 + 'Z' is ERROR
+17 + 'i' is ERROR
+4 + ERROR is ERROR
+4 + 9.50 is 13.50
+4 + 3.25 is 7.25
+4 + 17 is 21
+4 + 'CS280    ' is ERROR
+4 + 'Spring 2026     ' is ERROR
+4 + true is ERROR
+4 + false is ERROR
+4 + 'Z' is ERROR
+4 + 'i' is ERROR
+'CS280    ' + ERROR is ERROR
+'CS280    ' + 9.50 is ERROR
+'CS280    ' + 3.25 is ERROR
+'CS280    ' + 17 is ERROR
+'CS280    ' + 4 is ERROR
+'CS280    ' + 'Spring 2026     ' is 'CS280    Spring 2026     '
+'CS280    ' + true is ERROR
+'CS280    ' + false is ERROR
+'CS280    ' + 'Z' is 'CS280    Z'
+'CS280    ' + 'i' is 'CS280    i'
+'Spring 2026     ' + ERROR is ERROR
+'Spring 2026     ' + 9.50 is ERROR
+'Spring 2026     ' + 3.25 is ERROR
+'Spring 2026     ' + 17 is ERROR
+'Spring 2026     ' + 4 is ERROR
+'Spring 2026     ' + 'CS280    ' is 'Spring 2026     CS280    '
+'Spring 2026     ' + true is ERROR
+'Spring 2026     ' + false is ERROR
+'Spring 2026     ' + 'Z' is 'Spring 2026     Z'
+'Spring 2026     ' + 'i' is 'Spring 2026     i'
+true + ERROR is ERROR
+true + 9.50 is ERROR
+true + 3.25 is ERROR
+true + 17 is ERROR
+true + 4 is ERROR
+true + 'CS280    ' is ERROR
+true + 'Spring 2026     ' is ERROR
+true + false is ERROR
+true + 'Z' is ERROR
+true + 'i' is ERROR
+false + ERROR is ERROR
+false + 9.50 is ERROR
+false + 3.25 is ERROR
+false + 17 is ERROR
+false + 4 is ERROR
+false + 'CS280    ' is ERROR
+false + 'Spring 2026     ' is ERROR
+false + true is ERROR
+false + 'Z' is ERROR
+false + 'i' is ERROR
+'Z' + ERROR is ERROR
+'Z' + 9.50 is ERROR
+'Z' + 3.25 is ERROR
+'Z' + 17 is ERROR
+'Z' + 4 is ERROR
+'Z' + 'CS280    ' is 'ZCS280    '
+'Z' + 'Spring 2026     ' is 'ZSpring 2026     '
+'Z' + true is ERROR
+'Z' + false is ERROR
+'Z' + 'i' is 'Zi'
+'i' + ERROR is ERROR
+'i' + 9.50 is ERROR
+'i' + 3.25 is ERROR
+'i' + 17 is ERROR
+'i' + 4 is ERROR
+'i' + 'CS280    ' is 'iCS280    '
+'i' + 'Spring 2026     ' is 'iSpring 2026     '
+'i' + true is ERROR
+'i' + false is ERROR
+'i' + 'Z' is 'iZ'
+

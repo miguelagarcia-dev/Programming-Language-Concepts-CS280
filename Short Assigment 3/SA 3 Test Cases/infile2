@@ -1,0 +1,15 @@
+Simple array constructs
+@fred = ( "How" , "are" , "you" , "today?" )
+print @Fred contains ( @fred )
+
+_mike = #Fred  
+
+print " _mike @fred [3] \n" 
+
+#The array name in a scalar context gives the size
+#fredsize = @Fr&ed
+print ' @fred has ' , " #fred_size elements \n"
+
+##name gives the max subscript (size less one)
+print "Max sub is _@fred \n"
+

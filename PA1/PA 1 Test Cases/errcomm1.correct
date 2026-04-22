@@ -1,0 +1,6 @@
+PROGRAM: "program"
+IDENT: <prog1>
+SEMICOL: ";"
+VAR: "var"
+INTEGER: "integer"
+ERR: Error in line (11) Missing closing symbol(s) for a comment "(*"

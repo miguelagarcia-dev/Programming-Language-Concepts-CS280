@@ -1,0 +1,26 @@
+Line 6: Invalid floating-point literal "12.6."
+Total Number of Lines: 8
+Number of Integer Literals: 10
+Number of Floating-Point Literals: 8
+
+List of Integer Literals and their Values:
+"100": 100
+"1025": 1025
+"1234": 1234
+"125": 125
+"278": 278
+"3456": 3456
+"4321": 4321
+"45": 45
+"5": 5
+"7": 7
+
+List of Floating-Point Literals and their Values:
+"0.2": 0.2
+"0.45": 0.45
+"0.7": 0.7
+"16.25": 16.25
+"2.375": 2.375
+"2.5": 2.5
+"25.6": 25.6
+"25.60": 25.6

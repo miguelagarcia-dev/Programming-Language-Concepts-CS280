@@ -1,0 +1,2 @@
+SCONST: 'Please type the coordinates of three points'
+ERR: Error in line (4) Invalid character for starting a token """

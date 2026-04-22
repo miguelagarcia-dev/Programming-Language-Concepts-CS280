@@ -1,0 +1,4 @@
+PROGRAM: "program"
+IDENT: <prog1>
+SEMICOL: ";"
+ERR: Error in line (4) Invalid nesting of comments "(*(*"

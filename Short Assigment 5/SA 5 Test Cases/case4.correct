@@ -1,0 +1,23 @@
+ErrorVal=ERROR
+doubleVal1=9.50
+doubleVal2=3.25
+intVal1=17
+intVal2=4
+StrVal1="CS280    "
+StrVal2="Spring 2026     "
+bVal1=true
+bVal2=false
+cVal1=Z
+cVal2=i
+ERROR trimming  is ERROR
+9.50 trimming  is ERROR
+3.25 trimming  is ERROR
+17 trimming  is ERROR
+4 trimming  is ERROR
+'CS280    ' trimming  is 'CS280'
+'Spring 2026     ' trimming  is 'Spring 2026'
+true trimming  is ERROR
+false trimming  is ERROR
+Z trimming  is ERROR
+i trimming  is ERROR
+

@@ -1,0 +1,25 @@
+program prog1;
+	{ Testing all flags } 
+	const
+	pi = 3.143;
+	var
+	x1, y_1, z-, w234 : integer;	
+	 str : string := 'Welcome';
+	 z : real;
+	flag , bing : boolean := false; 
+	
+begin
+	z := 50;
+	if z > 0 then 
+	 begin
+	   x1:=0.0 
+	   bing := true;
+	 end
+	 else 
+	   begin
+	     x1:=-1;
+	     flag := true;
+	 end;
+	writeln(str, ' to cs 280 course');
+END.
+

@@ -1,0 +1,12 @@
+Line 1: Invalid floating-point literal "12.3."
+Line 3: Invalid exponent for a numeric literal: "125e3e"
+Line 3: Invalid exponent for a numeric literal: "34.56Ee"
+Total Number of Lines: 6
+Number of Integer Literals: 7
+Number of Floating-Point Literals: 4
+
+List of Floating-Point Literals and their Values:
+"0.45": 0.45
+"1025E2": 102500
+"2.375": 2.375
+"2.78e3": 2780

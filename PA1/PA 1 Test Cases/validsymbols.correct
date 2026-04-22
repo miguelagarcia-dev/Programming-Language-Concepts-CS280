@@ -1,0 +1,29 @@
+PLUS: "+"
+MULT: "*"
+DIV: "/"
+MINUS: "-"
+GTHAN: ">"
+LTHAN: "<"
+EQ: "="
+LPAREN: "("
+RPAREN: ")"
+ASSOP: ":="
+IDIV: "div"
+MOD: "mod"
+AND: "and"
+OR: "or"
+NOT: "not"
+COLON: ":"
+DOT: "."
+COMMA: ","
+SEMICOL: ";"
+
+Lines: 7
+Total Tokens: 19
+Identifiers & Keywords: 5
+Numbers: 0
+Booleans: 0
+Strings: 0
+
+KEYWORDS:
+and (1), div (1), mod (1), not (1), or (1)
