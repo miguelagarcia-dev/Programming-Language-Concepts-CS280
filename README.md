@@ -1,6 +1,6 @@
 # Programming Language Concepts — CS280
 
-Coursework from CS280 (Programming Language Concepts) at NJIT, Spring 2026. The course covers how programming languages are designed and implemented under the hood — from tokenizing raw text all the way to evaluating expressions.
+Coursework from CS280 (Programming Language Concepts) at NJIT, Spring 2026. The course covers how programming languages are designed and implemented under the hood, we get to work from tokenizing raw text all the way to evaluating expressions.
 
 ---
 
