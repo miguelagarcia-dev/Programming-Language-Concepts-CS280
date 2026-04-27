@@ -20,6 +20,13 @@ A recursive-descent parser built on top of the PA1 lexer. It validates the synta
 
 ---
 
+### PA3 — Interpreter
+Extends the PA2 parser into a full interpreter that executes Pascal-like programs at runtime. Evaluates expressions, handles variable declarations and assignments with type checking, and executes control flow with `IF/ELSE`, `WRITELN`, `WRITE`, and `READLN` statements. Implements a `Value` class with overloaded operators for five types: INTEGER, REAL, STRING, CHAR, and BOOLEAN.
+
+**Skills:** interpreter design, runtime type checking, symbol tables, operator overloading in C++
+
+---
+
 ### Short Assignment 2 — Command File Parser
 Reads a script file containing shell-style commands (`DIR`, `CD`, `COPY`, `DEL`) and counts how many lines are valid commands, invalid, or commented out.
 
