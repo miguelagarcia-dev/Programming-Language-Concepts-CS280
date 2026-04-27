@@ -1,0 +1,16 @@
+program myWork;
+const
+   epsilon = 0.0001;
+   factor = 4;
+var
+	{Invalid non-integer operands for the DIV operator.}
+	p, b : real; 
+	i, j : integer:= 7;	
+	
+begin
+	j := j mod factor;
+	
+	p := factor div epsilon;
+	{Display the results}
+	writeln  'The output results are ' , p, ', ', i, ', ', j);
+end  

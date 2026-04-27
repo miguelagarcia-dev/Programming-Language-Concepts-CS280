@@ -1,0 +1,15 @@
+program prog10;
+const
+	factor = 2.5;
+var
+	{Illegal operand type for an arithmetic operation}
+	r, a, p, b : real; 
+	i, j : integer := 0;
+	str : string := 'End of Program';	
+begin
+	p := factor * str; 
+	
+	{Display the results}
+	writeln('The result of p = ' , p);
+	writeln(str)
+end.

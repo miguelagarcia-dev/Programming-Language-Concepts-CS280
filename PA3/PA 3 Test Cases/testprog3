@@ -1,0 +1,14 @@
+PROGRAM Rectangle; 
+VAR
+	(*Illegal expression type for the assigned variable*)
+	r, a, p, b : REAL:= 0; 
+	i, j : INTEGER;	
+BEGIN
+	j := p;
+	IF ( r > 5) THEN
+	  a := (3.14) * r * r;
+	IF (a < 100) THEN
+	    p := 2 * 3.14 * b; 
+	(*Display the results*)
+	WRITELN ( 'The output results are ' , r, p, b);
+END

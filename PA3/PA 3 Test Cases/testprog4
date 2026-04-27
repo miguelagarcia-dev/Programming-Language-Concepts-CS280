@@ -1,0 +1,15 @@
+PROGRAM circle;
+VAR
+	(*Illegal Type for If statement condition*)
+	r, a, p, b : REAL := 0; 
+	i, j : INTEGER;	
+BEGIN
+	r := 8;
+	j := -1;
+	IF ( j ) THEN
+	  a := (3.14) * r * r;
+	IF (a < 100) THEN
+	    p := 2 * 3.14 * b; 
+	(*Display the results*)
+	WRITELN ( 'The output results are ' , r, p, b);
+END

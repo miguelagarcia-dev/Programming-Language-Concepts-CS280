@@ -1,0 +1,17 @@
+program prog11;
+const
+	factor = 2.5;
+var
+	{Invalid operand for NOT logic operation}
+	r, a, p : real; 
+	i, j : integer := 3;
+	b : boolean;
+	str : string := 'End of Program';	
+begin
+	p := factor * -(i * factor); 
+	b := not(i/factor);
+	
+	{Display the results}
+	writeln('The result of p = ' , p);
+	writeln(str)
+end.

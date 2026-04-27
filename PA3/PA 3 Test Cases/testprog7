@@ -1,0 +1,13 @@
+program circle;
+var
+	{Run-Time Error-Illegal division by Zero}
+	r, a, p, b : real; 
+	i, j : integer;	
+	bool1, bool2 : boolean := true;
+begin
+	i := 4;
+	j := 2;
+	a := 0;
+	{Display the results}
+	writeln ( 'The output results are ' , i/a, p, b);
+end.  

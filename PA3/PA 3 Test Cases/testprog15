@@ -1,0 +1,25 @@
+PROGRAM Person;
+VAR
+	(*Testing reading character, boolean, and string values*)
+	age : integer := 0; 
+	name: string ;
+	st1, st2 : string;
+	ch : char ;
+	answer : boolean;
+BEGIN
+	writeln('Enter your age, and your full name: ');
+	readln(age, name);
+	writeln('Are you married? (Y/N)');
+	readln(ch);
+	if(ch = 'y') or (ch = 'Y') then 
+		st1 := 'Yes';
+	if(ch = 'n') or (ch = 'N') then 
+		st1 := 'No';
+	writeln('Answer the following curious question by true/false:');
+	writeln('Classical music is your favorite. Answer: ');
+	readln(answer); 
+	(*Display the results*)
+	WRITELN ( 'Your Name: ', name);
+	writeln('Your age: ', age, ' years , ', 'Married: ', st1);
+	writeln('Answer of curious question: ', answer);
+END.
